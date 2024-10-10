@@ -35,4 +35,5 @@
   <li> Run the <code>ThinkOnHomeAssessmentApplication</code> and you are all set !!!</li>
  </ol>
  <hr>
+ <h5> You will find all the code written in the <code>src/main</code> folder and the flow is as follows <code> Rest controller </code> (that contains the APIs) -> <code>User Service </code> (that has the actual logic) and the <code>user service </code> is using the <code>UsersRepo</code> which subsequently uses the MongoRepository for its database management  </h5>
 <h4> All endpoint URLs are provided with examples in the <code> ThinkOn APIs.postman_collection.json </code>  postman collection so it's only required to download it and import it in the postman </h4>
