@@ -1,8 +1,8 @@
-package com.example.ThinkOne.Home.Controller;
+package com.example.ThinkOn.Home.Controller;
 
 
-import com.example.ThinkOne.Home.Models.Users;
-import com.example.ThinkOne.Home.Services.UserServices;
+import com.example.ThinkOn.Home.Models.Users;
+import com.example.ThinkOn.Home.Services.UserServices;
 import jdk.jshell.Snippet;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

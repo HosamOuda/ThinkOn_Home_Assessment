@@ -1,7 +1,7 @@
-package com.example.ThinkOne.Home.Services;
+package com.example.ThinkOn.Home.Services;
 
-import com.example.ThinkOne.Home.Models.Users;
-import com.example.ThinkOne.Home.Repository.UsersRepo;
+import com.example.ThinkOn.Home.Models.Users;
+import com.example.ThinkOn.Home.Repository.UsersRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestBody;

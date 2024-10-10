@@ -1,4 +1,4 @@
-package com.example.ThinkOne.Home.Models;
+package com.example.ThinkOn.Home.Models;
 
 import jdk.jfr.DataAmount;
 import org.springframework.data.annotation.Id;

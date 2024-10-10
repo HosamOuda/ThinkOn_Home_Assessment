@@ -1,14 +1,14 @@
-package com.example.ThinkOne.Home;
+package com.example.ThinkOn.Home;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThinkOneHomeAssessmentApplication {
+public class ThinkOnHomeAssessmentApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(ThinkOneHomeAssessmentApplication.class, args);
+		SpringApplication.run(ThinkOnHomeAssessmentApplication.class, args);
 	}
 
 }
